@@ -1,2 +1,2 @@
 # Dijkstra
-But: La recherche du plus cours chemin.
+But: La recherche du plus court chemin.
